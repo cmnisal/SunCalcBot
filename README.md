@@ -6,7 +6,7 @@ Telegram Bot for Fetching SunCalc.org data.
 
 - Get `BOT_TOKEN` from t.me/BotFather and save `BOT_TOKEN` in `.env` file.
 
-``npm start`
+`npm start`
 
 # Libraries Used
 - suncalc
