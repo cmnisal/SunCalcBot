@@ -15,3 +15,5 @@ Telegram Bot for Fetching SunCalc.org data.
 
 # Usage
 Fetching Users Location and Sending the Sundata.
+
+Telegram Bot - https://t.me/SunCalcBot
